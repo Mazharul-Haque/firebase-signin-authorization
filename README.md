@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # firebase-signin-authorization
 # firebase-signin-authorization
 # google-authorization
+# signin-auth
